@@ -1,2 +1,2 @@
-# Product-Quality-Control-UsingGenAI
+# Product-Quality-Control-GenAI
 Product Quality Control using Gen AI vision model
