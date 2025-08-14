@@ -54,6 +54,8 @@ Procuct-Quality-Control/Old/
 config.json              # Ignore specific JSON file
 secrets.json            # Ignore specific JSON file
 credentials.json        # Ignore specific JSON file
+auspicious-life-447011-r5-bfb89e0cd2c9.json  # Google Cloud credentials
+Procuct-Quality-Control/auspicious-life-447011-r5-bfb89e0cd2c9.json
 # *.json               # Uncomment to ignore all JSON files
 path/to/specific.json   # Ignore JSON file in specific path
 *.pkl
